@@ -1,0 +1,36 @@
+
+
+ *{
+  font-family: sans-serif !important; 
+}
+
+* {
+  margin: 0%;
+  padding: 0;
+}
+#navbar{
+  
+  display: flex !important;
+  justify-content: center !important;
+  list-style-type: none !important;
+  align-items: last baseline !important;
+  padding: 0 !important;
+  margin: 0% !important;
+  background-color: #fff;
+  
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+  width: 100%;
+    
+ }
+ .card-footer{
+  margin-top: 20px !important;
+  background-color: transparent !important;
+ }
+ .card{
+  
+  margin-top: 20px !important;
+  margin-left: 40px !important;
+ }
+
+
